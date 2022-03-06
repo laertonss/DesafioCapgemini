@@ -3,9 +3,13 @@ Repository created for the Capgemini Challenge project.
 
 As tecnologias utilizadas para criação deste projeto foram:
 Java jdk-17 (versão 17.0.2.0)
+
 IDE: VsCode (Versão 1.64.2)
+
 Laragon 5.0.0
+
 PHP 7.4.19
+
 
 Cada arquivo está nomeado com o nome da questão a qual se refere a resposta.
 
