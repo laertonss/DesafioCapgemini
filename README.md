@@ -2,6 +2,7 @@
 Repository created for the Capgemini Challenge project.
 
 As tecnologias utilizadas para criação deste projeto foram:
+
 Java jdk-17 (versão 17.0.2.0)
 
 IDE: VsCode (Versão 1.64.2)
